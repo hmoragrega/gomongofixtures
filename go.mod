@@ -1,6 +1,6 @@
 module github.com/hmoragrega/gomongofixtures
 
-go 1.21
+go 1.20
 
 require (
 	github.com/mongodb/mongo-tools-common v3.0.6+incompatible
